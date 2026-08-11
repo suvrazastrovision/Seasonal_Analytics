@@ -11,7 +11,7 @@ Agricultural productivity is influenced by multiple environmental and operationa
 
 The solution follows an end-to-end analytics workflow, beginning with data storage in Amazon S3, ingestion into Snowflake through a secure storage integration, SQL-based data transformation and modelling, and finally visualization through interactive Power BI dashboards.
 
-This project simulates a real-world analytics pipeline commonly used in enterprise data platforms.
+This is my very first project simulates a real-world analytics pipeline commonly used in enterprise data platforms.
 
 ---
 
