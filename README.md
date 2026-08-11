@@ -246,7 +246,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ## Rainfall Analysis
 
-![Rainfall](images/rainfall_analysis.png)
+![Rainfall](images/Rainfall_Analysis.png)
 
 ---
 
