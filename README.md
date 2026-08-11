@@ -365,4 +365,4 @@ This project strengthened practical experience in:
 
 # ⭐ Acknowledgements
 
-This project was developed by adapting as a hands-on demonstration of modern cloud analytics practices by Udemy/Coursera/Udacity tutorial using Amazon S3, Snowflake, SQL, and Power BI. It is intended for educational and portfolio purposes.
+This project was developed by adapting as a hands-on demonstration of modern cloud analytics practices by Udemy/Coursera/Udacity tutorial using Amazon S3, Snowflake, SQL, Power BI and Open-AI. It is intended for educational and portfolio purposes.
