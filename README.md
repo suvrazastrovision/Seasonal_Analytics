@@ -96,7 +96,7 @@ Seasonal-Crop-Yield-Analytics/
 │   └── yield_analysis.png
 │
 └── docs/
-    └── Dashboard_Report.pdf
+    └── Report.pdf
 ```
 
 ---
