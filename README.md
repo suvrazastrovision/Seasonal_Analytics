@@ -5,7 +5,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Agricultural productivity is influenced by multiple environmental and operational factors such as rainfall, temperature, humidity, irrigation methods, soil characteristics, and seasonal variation. This project demonstrates how modern cloud analytics technologies can be integrated to transform raw agricultural data into actionable business insights.
 
@@ -15,7 +15,7 @@ This is my very first project simulates a real-world analytics pipeline outside 
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Design a cloud-native data analytics pipeline.
 - Store raw datasets in Amazon S3.
@@ -55,7 +55,7 @@ This is my very first project simulates a real-world analytics pipeline outside 
 
 ---
 
-# ⚙ Technology Stack
+# Technology Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -70,7 +70,7 @@ This is my very first project simulates a real-world analytics pipeline outside 
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 Seasonal-Crop-Yield-Analytics/
@@ -99,7 +99,7 @@ Seasonal-Crop-Yield-Analytics/
 
 ---
 
-# 🔄 Data Pipeline
+# Data Pipeline
 
 ## 1. Data Collection
 
@@ -159,7 +159,7 @@ Power BI connects directly to Snowflake to generate interactive dashboards that 
 
 ---
 
-# 📊 Dashboard Pages
+# Dashboard Pages
 
 ## 🌧 Rainfall Analysis
 
@@ -175,7 +175,7 @@ Analyze rainfall patterns across seasons and evaluate their relationship with cr
 
 ---
 
-## 🌡 Temperature Analysis
+## Temperature Analysis
 
 **Purpose**
 
@@ -189,7 +189,7 @@ Study temperature variations and identify optimal growing conditions.
 
 ---
 
-## 💧 Humidity Analysis
+## Humidity Analysis
 
 **Purpose**
 
@@ -203,7 +203,7 @@ Explore humidity levels and their effect on agricultural productivity.
 
 ---
 
-## 🌾 Yield Analysis
+## Yield Analysis
 
 **Purpose**
 
@@ -218,7 +218,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ---
 
-# 📈 Business Questions Addressed
+# Business Questions Addressed
 
 - Which season produces the highest crop yield?
 - How does rainfall influence agricultural productivity?
@@ -229,7 +229,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ---
 
-# 📌 Key Insights
+# Key Insights
 
 - Environmental variables exhibit distinct seasonal trends that influence agricultural outcomes.
 - Crop productivity varies across irrigation methods and soil types.
@@ -238,7 +238,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ---
 
@@ -266,7 +266,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 ### Cloud Technologies
 
@@ -329,7 +329,7 @@ If using your own Snowflake instance, update the connection settings and refresh
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 - Automate ingestion using Snowpipe (?).
 - Integrate live weather APIs.
@@ -342,7 +342,7 @@ If using your own Snowflake instance, update the connection settings and refresh
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 This project strengthened practical experience in:
 
@@ -355,9 +355,6 @@ This project strengthened practical experience in:
 
 ---
 
-# 👤 Author
-
-**Suvra Nath**
 
 ---
 
