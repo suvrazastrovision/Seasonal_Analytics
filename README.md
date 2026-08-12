@@ -26,7 +26,7 @@ This is my very first project simulates a real-world analytics pipeline outside 
 
 ---
 
-# 🏗 Solution Architecture
+# Solution Architecture
 
 ```text
                     Raw CSV Dataset
@@ -161,7 +161,7 @@ Power BI connects directly to Snowflake to generate interactive dashboards that 
 
 # Dashboard Pages
 
-## 🌧 Rainfall Analysis
+## Rainfall Analysis
 
 **Purpose**
 
