@@ -76,8 +76,6 @@ This is my very first project simulates a real-world analytics pipeline outside 
 Seasonal-Crop-Yield-Analytics/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── data/
 │   └── season.csv
