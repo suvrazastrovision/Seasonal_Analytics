@@ -307,7 +307,7 @@ Evaluate agricultural productivity across different crops, seasons, irrigation m
 
 ---
 
-# ▶ How to Run
+# How to Run
 
 ### Clone Repository
 
