@@ -327,37 +327,3 @@ using Power BI Desktop.
 
 If using your own Snowflake instance, update the connection settings and refresh the dataset.
 
----
-
-# Future Improvements
-
-- Automate ingestion using Snowpipe (?).
-- Integrate live weather APIs.
-- Add machine learning models for crop yield prediction.
-- Schedule automated refreshes.
-- Deploy dashboards to Power BI Service.
-- Build a Streamlit dashboard for web deployment.
-- Containerize the pipeline using Docker.
-- Orchestrate workflows using Apache Airflow.
-
----
-
-# Learning Outcomes
-
-This project strengthened practical experience in:
-
-- Designing cloud-native analytics pipelines.
-- Working with cloud data warehouses.
-- SQL-based analytical data modeling.
-- Building interactive business intelligence dashboards.
-- Communicating insights through data visualization.
-- Applying enterprise data engineering best practices.
-
----
-
-
----
-
-# ⭐ Acknowledgements
-
-This project was developed by adapting as a hands-on demonstration of modern cloud analytics practices by Udemy/Coursera/Udacity tutorial using Amazon S3, Snowflake, SQL, Power BI and Open-AI. It is intended for educational and portfolio purposes.
