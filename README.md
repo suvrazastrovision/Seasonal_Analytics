@@ -1,4 +1,4 @@
-# Seasonal Crop Yield Analytics Pipeline using AWS, Snowflake & Power BI 
+# Practice Project: Seasonal Crop Yield Analytics Pipeline using AWS, Snowflake & Power BI 
 
 > An end-to-end cloud-based data analytics practice project demonstrating data ingestion, warehousing, transformation, and interactive business intelligence using **Amazon S3**, **Snowflake**, **SQL**, and **Power BI**.
 
